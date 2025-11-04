@@ -31,3 +31,6 @@ Insight: Shows vehicles eligible for Clean Alternative Fuel Vehicle (CAFV) incen
 Total Vehicles by Model:
 Chart: Grid View
 Insight: Lists top 10 EV models, analyzing consumer preferences.
+
+
+<img width="1780" height="982" alt="Screenshot 2025-10-29 183929" src="https://github.com/user-attachments/assets/690944ad-ea7e-44e2-8881-5c6d9ffaa87e" />
